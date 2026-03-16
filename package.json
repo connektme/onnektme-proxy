@@ -1,0 +1,6 @@
+{
+  "name": "connektme-ghl-proxy",
+  "version": "1.0.0",
+  "description": "ConnektMe GHL API proxy for War Room dashboard",
+  "private": true
+}
